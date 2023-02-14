@@ -1,5 +1,5 @@
 export default [
-    "React",
+    <a href="https://reactjs.org/" target="_" alt="Link to React documentation">React</a>,
     "State hook",
     "Effect hook",
     "Next.js",

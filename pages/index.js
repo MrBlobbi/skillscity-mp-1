@@ -26,8 +26,8 @@ export default function Home() {
 
       <Hero
         imgUrl="/assets/profile.jpg"
-        title="Zahid"
-        subtitle="I am a bootcamp instructor"
+        title="Aaron"
+        subtitle="I am a bootcamp learner"
       />
 
       <Content>
