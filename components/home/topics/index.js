@@ -6,6 +6,7 @@ export default function Topics() {
             <h3 className="font-medium text-2xl">
                 Topics covered in this course
             </h3>
+            <p className="">(You can click these!)</p>
             <div>
                 <ul className="list-disc">
                     {topics.map((topic, index) => {
