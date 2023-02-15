@@ -21,7 +21,7 @@ export default function Home() {
   }
 
   return (
-    <div className="w-full">
+    <div className="w-full prose dark:prose-invert">
       <Header name="Home" />
 
       <Hero
