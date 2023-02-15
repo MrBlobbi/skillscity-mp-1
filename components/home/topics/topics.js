@@ -12,6 +12,6 @@ export default [
     ,
     <button href="https://reactjs.org/docs/components-and-props.html" target="_blank" alt="Link to documentation" className="bg-sky-500 hover:bg-sky-700 rounded">React Components</button>,
     ,
-    <button href="https://www.w3schools.com/html/html_responsive.asp" target="_blank" alt="Link to React documentation" className="bg-sky-500 hover:bg-sky-700 rounded">Mobile responsive design</button>,
+    <a href="https://www.w3schools.com/html/html_responsive.asp" target="_blank" alt="Link to React documentation"><button  className="bg-sky-500 hover:bg-sky-700 rounded">Mobile responsive design</button></a>,
 
 ];
